@@ -1,24 +1,10 @@
-# python-shogi: ピュアPythonでできた将棋ライブラリ
-=========================================
+# python-shogi: Pythonのみで記述された将棋関連ライブラリ
 
-.. image:: https://travis-ci.org/gunyarakun/python-shogi.svg
-    :target: https://travis-ci.org/gunyarakun/python-shogi
-
-.. image:: https://coveralls.io/repos/gunyarakun/python-shogi/badge.svg
-    :target: https://coveralls.io/r/gunyarakun/python-shogi
-
-.. image:: https://landscape.io/github/gunyarakun/python-shogi/prototype/landscape.svg?style=flat
-    :target: https://landscape.io/github/gunyarakun/python-shogi
-
-.. image:: https://badge.fury.io/py/python-shogi.svg
-    :target: https://pypi.python.org/pypi/python-shogi
-
-- authorであるgunyarakunさんのREADME.rstから日本語化したりTODOを書き換えたりしています。元のREADMEは下記になります。
+authorであるgunyarakunさんのREADME.rstから日本語化したりTODOを書き換えたりしています。
+元のREADMEは下記になります。
 [本家のREADME](https://github.com/gunyarakun/python-shogi/blob/master/README.rst)
 
-
 ## python-shogiとは
-------------
 
 Pythonのみで記述された将棋のためのモジュールです。
 python-chess（commit 6203406259504cddf6f271e6a7b1e04ba0c96165）を元に描かれています。
